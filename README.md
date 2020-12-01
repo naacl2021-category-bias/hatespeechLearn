@@ -3,7 +3,7 @@
 ## Category Bias in Five Popular Hate Speech Dataset
 
 
-<img src="/categoryBiasPieCharts/waseem.png" width="270" height="200" /><img src="/categoryBiasPieCharts/davidson.png" width="270" height="200" /><img src="/categoryBiasPieCharts/gibert.png" width="270" height="200" /><img src="/categoryBiasPieCharts/semeval.png" width="270" height="200" /><img src="/categoryBiasPieCharts/encaseh.png" width="270" height="200" />
+<img src="/categoryBiasPieCharts/waseem.png" width="300" height="220" /><img src="/categoryBiasPieCharts/davidson.png" width="300" height="220" /><img src="/categoryBiasPieCharts/gibert.png" width="300" height="220" /><img src="/categoryBiasPieCharts/semeval.png" width="300" height="220" /><img src="/categoryBiasPieCharts/encaseh.png" width="300" height="220" />
 
 
 

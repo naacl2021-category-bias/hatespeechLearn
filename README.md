@@ -6,6 +6,9 @@
 <img src="/categoryBiasPieCharts/waseem.png" width="300" height="220" /><img src="/categoryBiasPieCharts/davidson.png" width="300" height="220" /><img src="/categoryBiasPieCharts/gibert.png" width="300" height="220" /><img src="/categoryBiasPieCharts/semeval.png" width="300" height="220" /><img src="/categoryBiasPieCharts/encaseh.png" width="300" height="220" />
 
 
+## Category Bias Demo[https://youtu.be/Y3Di7RWSLHA]
+
+[![demo](https://github.com/naacl2021-category-bias/hatespeechLearn/blob/main/demo-screenshot.png)](https://youtu.be/Y3Di7RWSLHA)
 
 ## 1. To run training, set the name, savedir and data_path and run python train.py 
 
